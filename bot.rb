@@ -6,7 +6,7 @@ client = Twitter::REST::Client.new do |config|
   config.consumer_key        = "h5YAjuHDstpiXlCfbNKPZJuiN"
   config.consumer_secret     = "GUmiUPZasDCl15DxNit0kCzuGqrEpfoLhP50AMGzX4b0M7NAUq"
   config.access_token        = "4905994514-oJcPtMJLZ4jHGGRK0AtjigTgjs3Mhbzxqrgw98p"
-  config.access_token_secret = "0ekss4LzwkL2ZHiGDJ6S1tRSiLou9OL3cNJFzxeUaLtSs"
+  config.access_token_secret = "It's a secret!"
 end
 
   # nouns= "I You He She It They We Sarah Susan Andy James Donald Nat David Gabriel"
